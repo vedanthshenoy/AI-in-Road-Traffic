@@ -3,3 +3,4 @@ In this repository we'll see codes which can be applied to real life traffic on 
 Use person_detection.py along with YOLO-Object detection github repository(link given in references). Here only thing i have done is to remove all classes and keep only person. Also i have used it to run a buzzer whenever a human crosses in front of the camera.
 # References
 Object Detection Github repository : <https://github.com/jalajthanaki/Real_time_object_detection>
+ImageAI Object Detection Used in Vehicle counting : <https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606>
